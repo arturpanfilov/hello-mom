@@ -1,0 +1,16 @@
+h1  {
+    font-size: 30px;
+    color:blue;  
+    margin-bottom: 100px;
+}
+p {
+    color:orangered;
+    size: 50px;
+    bottom: auto;
+} 
+img{
+    width: 500px;
+}
+.output {
+    color:brown
+}
